@@ -6,10 +6,13 @@
   *DataTurks
   *Playment.io
   *tagtog
-  *LabelBox
+  *LabelBox https://github.com/Labelbox/labelbox
   
   *COLABELER
   *ImageJ
   *Matlab Image Labeler
   *https://supervise.ly/video-labeling/ *arasştırmacılar için ücretsiz.
+  -Label Studio https://labelstud.io/ *dikkate değer
+  -Vott https://github.com/microsoft/VoTT
+  
   
