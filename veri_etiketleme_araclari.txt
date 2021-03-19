@@ -1,0 +1,9 @@
+-labeling tools for computer vision
+  *lionbridge
+  *CVAT
+  *Super Annotate
+  *Ligh Tag
+  *DataTurks
+  *Playment.io
+  *tagtog
+  *LabelBox
