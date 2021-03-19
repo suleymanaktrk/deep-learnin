@@ -1,0 +1,21 @@
+-bildiri nasıl hazırlanır
+	-bidiri türleri
+	-yazım kuralları
+	-sınırlılıkları
+	-atıf verme ve alıntılama nasıl yapılır
+
+"Son dönem nesne tanımada kullanılan derin öğrenme metodlarının performanslarının değerlendirilmesi"
+	-derin öğrenme algoritmaları
+	-bilgisayarlı görme
+	-nesne algılama
+	-nesne tanıma
+	-nesne izleme
+	-nesne tanıma performansı olçüm teknikleri
+
+-Araştırmayı nerede yapacağız.
+	-https://scholar.google.com/schhp?hl=tr
+	-bilimsel makalelere ücretsiz erişim platformları
+	http://w3.sakarya.edu.tr/vetisbt/?dil=tr&veritabani=
+
+
+	
